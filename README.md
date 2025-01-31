@@ -50,9 +50,9 @@ Une défense orale où l’étudiant devra expliquer et démontrer les configura
 Le projet Born2beroot prépare les étudiants à des postes en administration système et en cybersécurité. Il permet aussi de se familiariser avec les bases du DevOps, un domaine clé dans l’industrie informatique.
 
 📚 Ressources Utiles
-📌 Dépôt GitHub avec exemples et configurations
-📌 Vidéo explicative sur le projet Born2beRoot
-📌 Documentation officielle Debian
+[📌 Dépôt GitHub avec exemples et configurations][https://github.com/PublioElio/School-42-Born2beroot]
+[📌 Vidéo explicative sur le projet Born2beRoot][https://www.youtube.com/watch?v=OQEdjt38ZJA]
+[📌 Documentation officielle Debian][https://www.debian.org/doc/index.fr.html]
 
 🎯 Conclusion
 Born2beroot est un projet incontournable de l'école 42 qui permet aux étudiants de plonger dans l'administration système et la sécurisation d’un serveur Linux. C'est une première étape essentielle pour ceux qui souhaitent s'orienter vers les métiers du DevOps, de la cybersécurité ou de l'administration système.
