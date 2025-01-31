@@ -1,5 +1,5 @@
 # born2beroot
-[illustration born2beroot](./u6113228922_A_stylized_infographic_of_the_Born2beroot_project_f_decf5513-23d6-4f2e-8ae2-fda60d5ae3c1)
+![illustration born2beroot](./picture.png)
 🔥 Résumé Détaillé du Projet Born2beroot - École 42 🔥
 Le projet Born2beroot de l’école 42 est un projet d’initiation à l’administration système, conçu pour familiariser les étudiants avec la gestion des serveurs Linux, la sécurisation du système, et les bonnes pratiques DevOps. L’objectif est de comprendre comment un système fonctionne, d’adopter les bonnes pratiques de sécurité et d’automatiser certaines tâches essentielles.
 
